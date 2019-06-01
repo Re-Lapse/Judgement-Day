@@ -1,0 +1,30 @@
+Save the world from the Universes PR Department!
+
+A lot planned for the future, currently some nifty stuff already though such as
+
+9 Weapons!
+
+Version history =
+1.0.1.1 - Nerfed the Lazar even more
+1.0.1 - Nerfed the Lazar heavily
+1.0 - Finally the first update to do with the overarcing story! Jeff the PR will now move into your town if you have a pwnhammer in your inventory
+0.1.2.0 - Added a dirt sword sprite (finally), started making some sprites for the secret boi and another new weapon, the fusion smasher!
+0.1.1.1 - Added our first magic weapon, the Lazar! As well as some preperations for our first major update!
+0.1.1.0 - Balanced everything, offset Big Bang some more, Made some things what they were meant to be
+0.1.0.8 - Added Nova Hawk and Big Bang Sprite Update (last time but actually hopefully this time)
+0.1.0.7 - Frying Pan Sprite + Updated Big Bang Sprite hopefully for last time!
+0.1.0.6 - Balance Patching + Updated Big Bang Sprite
+0.1.0.5 - Added most things in the description
+0.1.0.4 - Added the Frying Pan + Updated Big Bang Sprite
+0.1.0.3 - Bug Fixes + Updated Big Bang Sprite
+0.1.0.2 - Added the Cheese and the Queen's Guard + Updated Big Bang Sprite
+0.1.0.1 - Patched the Lunar Blasters fire rate + Updated Big Bang Sprite
+0.1 - initial release, containing Dirt Sword, Steel Striker, The Big Bang and the Lunar Blaster
+
+To-do list = 
+Bosses
+Story
+A special post-moonlord event! (working on)
+Jeff from PR NPC (working on)
+More enemies (working on)
+Music and SFX (working on)
